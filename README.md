@@ -5,7 +5,7 @@ A collection of slides and posters given at professional conferences
 
 ##Contents: 
 
-###Presentations
+###Slides
 - None yet, coming soon!
 
 ###Posters
